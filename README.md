@@ -1,7 +1,7 @@
 
 # 7OOP-Projects
 Activities and projects for the 7OOP (Object-Oriented Programming) class in C204.
-<h1 align="center"> Hi,👋 I'm Sean Grei I. Maglalang </h1>
+<h1 align="center"> 👋 Hi, I'm Sean Grei I. Maglalang </h1>
 <p align="center">
   <img src="https://scontent.fcrk1-3.fna.fbcdn.net/v/t39.30808-6/501781126_1219430089625571_2179144778645724400_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGjuUyqMloaaN9_LFn30JiZtzd6bIiVALK3N3psiJUAsujuIU6sVDY1mO4DH4RMYWT0fBJmGYtT5ATE7FyslRYQ&_nc_ohc=c97mF1hUq4sQ7kNvwEsy0EG&_nc_oc=AdlEeYJYnK-yRkKKKfFzlFzvFnZfU3uepQYTb_zuScI6di9dljJYhDZShRPKWv2LtVk&_nc_zt=23&_nc_ht=scontent.fcrk1-3.fna&_nc_gid=D_NkKs44pDXHgr1Q034M_A&oh=00_AfUcrk1CPsLYBbd_fIsWuZJF874adJc_VDjTZDvHbGPOGA&oe=68B7816C" alt="banner" width="50%"/>
 </p>
