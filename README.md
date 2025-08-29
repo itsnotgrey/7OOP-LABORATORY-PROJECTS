@@ -40,13 +40,13 @@ Activities and projects for the 7OOP (Object-Oriented Programming) class in C204
 
 ## 📫 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sean.grei.3)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]mseangrei@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/griiiii_07/))
 
 
 ---
 
-:white_heart: "Appreciate your visit! Have a look at my projects and feel free to reach out." 
+:white_heart: "Appreciate your visit! Have a look at my projects and feel free to reach out." mseangrei@gmail.com
 
 
 ---
