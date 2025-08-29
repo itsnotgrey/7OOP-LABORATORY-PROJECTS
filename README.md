@@ -1,3 +1,4 @@
+
 # 7OOP-Projects
 Activities and projects for the 7OOP (Object-Oriented Programming) class in C204.
 <h1 align="center"> :wave: Hi, I'm Sean Grei I. Maglalang </h1>
