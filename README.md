@@ -32,10 +32,10 @@ Activities and projects for the 7OOP (Object-Oriented Programming) class in C204
 ---
 
 ## 🤔: Fun Facts About Me
-- I can play guitar and also sing :guitar:.  
-- I love watching anime and kdrama :tv: .
-- I also love cats too :black_cat:.  
-- I’m also a good listener and an understanding person :grin:.
+- I can play guitar and also sing.  
+- I love watching anime and kdrama.
+- I also love cats too.  
+- I’m also a good listener and an understanding person.
 
 ---
 
