@@ -45,11 +45,11 @@ Activities and projects for the 7OOP (Object-Oriented Programming) class in C204
 
 ---
 
-- COMING SOON 
+
 
 ---
 
-## 🤔: Fun Facts About Me
+## 🤔 Fun Facts About Me
 - I can play guitar and also sing.  
 - I love watching anime and kdrama.
 - I also love cats too.  
@@ -57,7 +57,7 @@ Activities and projects for the 7OOP (Object-Oriented Programming) class in C204
 
 ---
 
-## 📲: Connect with Me
+## 📲 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sean.grei.3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/griiiii_07/)
@@ -65,9 +65,9 @@ Activities and projects for the 7OOP (Object-Oriented Programming) class in C204
 
 ---
 
-😁: "Appreciate your visit! Have a look at my projects and feel free to reach out." mseangrei@gmail.com
+😁 "Appreciate your visit! Have a look at my projects and feel free to reach out." mseangrei@gmail.com
 
 
 ---
 
-: 💗: *Thank you for your visit!*
+ 💗 *Thank you for your visit!*
