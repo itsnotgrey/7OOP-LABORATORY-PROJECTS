@@ -8,11 +8,11 @@ Activities and projects for the 7OOP (Object-Oriented Programming) class in C204
 
 ---
 
-## 🤍: About Me
+## 🤍 About Me
 **I’m a college student working hard for my future. I might not have all the answers yet, but I’m always learning and growing. I don’t mind making mistakes because I see them as stepping stones to getting better. I appreciate honesty and real connections—if you're genuine, we’ll get along just fine. As they say, “If you’re not failing, you’re not trying hard enough.**
 ---
 
-## ↪️: Areas of Interest & Languages
+## ↪️ Areas of Interest & Languages
 -  **Areas of Interest:**
   - Software Developer  
   - Game Developer
@@ -24,16 +24,24 @@ Activities and projects for the 7OOP (Object-Oriented Programming) class in C204
 
 ---
 
-## 🌅: Midterm Lab Tasks
+## 🌅 Midterm Lab Tasks
 
 | Task | File |
 |------|------|
-| Paired Task 1: **Object-Oriented Analysis** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/dc24a0f4838a3c04f2e2a2737ed7bd01ca4eb214/Maglalang%20Paired%20task%20Object%20Oriented%20Analysis.pdf)) |
+| Paired Task 1: **Object-Oriented Analysis** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/dc24a0f4838a3c04f2e2a2737ed7bd01ca4eb214/Maglalang%20Paired%20task%20Object%20Oriented%20Analysis.pdf) |
 | **Midterm Lab Task 1** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/eb37d31659746014f18e054955f1fb560154bac5/Maglalang%2C%20Sean%20Grei%207oop.pdf) |
 | Midterm Lab Task 2: **Using Loops and Functions** | [Open PDF](https://github.com/Manaois-cers/7OOP-Projects/blob/9628eec3f65fc27083e2c75420c15c145bd10ff2/Files/Midterm%20Lab%20Task%202.%20Using%20Loops%20and%20Functions%2C%20Manaois%2C%20Ivan%20Bryan%20R..pdf) |
 | Midterm Lab Task 3: **List Collection Types** | [Open PDF](https://github.com/Manaois-cers/7OOP-Projects/blob/9628eec3f65fc27083e2c75420c15c145bd10ff2/Files/Midterm%20Lab%20Task%203.%20Using%20List%20Collection%20types%2C%20Manaois%2C%20Ivan%20Bryan%20R..pdf) |
 | Midterm Lab Task 4: **Dictionaries** | [Open PDF](https://github.com/Manaois-cers/7OOP-Projects/blob/9628eec3f65fc27083e2c75420c15c145bd10ff2/Files/Midterm%20Lab%20Task%204%20%20Manaois%2C%20Ivan%20Bryan%20R.%20.pdf) |
 | Midterm Lab Task 5: **Classes and Objects (Python)** | [Open PDF](https://github.com/Manaois-cers/7OOP-Projects/blob/9628eec3f65fc27083e2c75420c15c145bd10ff2/Files/Midterm%20Lab%20Task%205%2C%20Manaois%2C%20Ivan%20Bryan%20R..docx.pdf) |
+
+## 🎓 Finals Lab Task
+
+| Task | File |
+|------|------|
+| Finals Lab Task 1: **Encapsulation** | [Open PDF](https://github.com/Manaois-cers/7OOP-Projects/blob/9628eec3f65fc27083e2c75420c15c145bd10ff2/Files/Finals%20Lab%20Task%201.%20Encapsulation%2C%20Manaois%2CIvan%20Bryan%20R..pdf) |
+
+---
 
 ---
 
