@@ -32,7 +32,7 @@ Activities and projects for the 7OOP (Object-Oriented Programming) class in C204
 | **Midterm Lab Task 1** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/eb37d31659746014f18e054955f1fb560154bac5/Maglalang%2C%20Sean%20Grei%207oop.pdf) |
 | Midterm Lab Task 2: **Using Loops and Functions** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/c28f9df3eef3945da32c570170441ce1451f4ec1/Maglalang%20Sean%20Grei%20I.%20C204.pdf) |
 | Midterm Lab Task 3: **List Collection Types** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/18a1a64e2105da12d9bc9079d9b4d86b95ad81f3/Maglalang%20Sean%20Grei%20Midterm%20Lab.pdf) |
-| Midterm Lab Task 4: **Dictionaries** | [Open PDF](https://github.com/Manaois-cers/7OOP-Projects/blob/9628eec3f65fc27083e2c75420c15c145bd10ff2/Files/Midterm%20Lab%20Task%204%20%20Manaois%2C%20Ivan%20Bryan%20R.%20.pdf) |
+| Midterm Lab Task 4: **Dictionaries** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/7e1f19c79ac80a280b5ef7d4c1dff0f15a5d5013/Maglalang%2C%20Sean%20Grei%20I.%20Midterm%20Lab%20Task%204%20(1).pdf) |
 | Midterm Lab Task 5: **Classes and Objects (Python)** | [Open PDF](https://github.com/Manaois-cers/7OOP-Projects/blob/9628eec3f65fc27083e2c75420c15c145bd10ff2/Files/Midterm%20Lab%20Task%205%2C%20Manaois%2C%20Ivan%20Bryan%20R..docx.pdf) |
 
 ## 🎓 Finals Lab Task
