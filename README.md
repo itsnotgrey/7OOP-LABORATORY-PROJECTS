@@ -39,7 +39,7 @@ Activities and projects for the 7OOP (Object-Oriented Programming) class in C204
 
 | Task | File |
 |------|------|
-| Finals Lab Task 1: **Encapsulation** | [Open PDF](https://github.com/Manaois-cers/7OOP-Projects/blob/9628eec3f65fc27083e2c75420c15c145bd10ff2/Files/Finals%20Lab%20Task%201.%20Encapsulation%2C%20Manaois%2CIvan%20Bryan%20R..pdf) |
+| Finals Lab Task 1: **Encapsulation** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/2ad7a5ef82dd4f318648c7840036a0b93e30c134/MAGLALANG%20final%20lab%20task.pdf) |
 
 ---
 
