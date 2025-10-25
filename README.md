@@ -3,8 +3,9 @@
 Activities and projects for the 7OOP (Object-Oriented Programming) class in C204.
 <h1 align="center"> 👋 Hi, I'm Sean Grei I. Maglalang </h1>
 <div align="center">
-  <img height="220" src="[https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/6c723f15e5a0a58ebd8396295b8a4dee923a5205/SeanGrey.jpg"/>
+  <img height="220" src="https://raw.githubusercontent.com/Manaois-cers/7OOP-Projects/103335dc77a991d3c4845f5435e01e9cd6163650/Screenshot%202025-08-28%20135320.png" alt="Project Preview"/>
 </div>
+
 
 
 ---
