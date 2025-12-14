@@ -48,15 +48,15 @@ Activities and projects for the 7OOP (Object-Oriented Programming) class in C204
 | Task | File | 
 |------|------|
 | Finals Task 2: **Inheritance** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/c4d8224ed555688ed051edd9fc514fdaa8186b41/MAGLALANG%20final%20task%202.%20Inheritance%20(1).pdf) |
-| Finals Task 3: **Polymorphism** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/c28f9df3eef3945da32c570170441ce1451f4ec1/Maglalang%20Sean%20Grei%20I.%20C204.pdf) |
-| Finals Task 4: **Python and Tkinter GUI program** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/18a1a64e2105da12d9bc9079d9b4d86b95ad81f3/Maglalang%20Sean%20Grei%20Midterm%20Lab.pdf) |
+| Finals Task 3: **Polymorphism** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/3e4b600fe10eea5fdb9fc7cfff478dcd569d0396/MAGLALANG%20Final%20task%203.%20Simple%20Polymorphism%20(1).pdf) |
+| Finals Task 4: **Python and Tkinter GUI program** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/3e4b600fe10eea5fdb9fc7cfff478dcd569d0396/Maglalang%20final%20lab%20task%204.pdf) |
 
 ## 🎓 Finals Lab Task
 
 | Task | File |
 |------|------|
-| Finals Lab Task 5: **CRUD CLI using Python and MySQL** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/7e1f19c79ac80a280b5ef7d4c1dff0f15a5d5013/Maglalang%2C%20Sean%20Grei%20I.%20Midterm%20Lab%20Task%204%20(1).pdf) |
-| Finals Lab Task 6: **Mysql and Tkinter HUI** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/8b681defa82091c3196beb03b33716f5908b4120/Maglalang%20Midterm%20lab%20task%205%20(1).pdf) |
+| Finals Lab Task 5: **CRUD CLI using Python and MySQL** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/3e4b600fe10eea5fdb9fc7cfff478dcd569d0396/MAGLALANG%20final%20lab%20task%205.pdf) |
+| Finals Lab Task 6: **Mysql and Tkinter HUI** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/3e4b600fe10eea5fdb9fc7cfff478dcd569d0396/Maglalang%2C%20lab%20task%206.pdf) |
 
 
 
