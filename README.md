@@ -48,17 +48,16 @@ Activities and projects for the 7OOP (Object-Oriented Programming) class in C204
 | Task | File | 
 |------|------|
 | Finals Task 2: **Inheritance** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/c4d8224ed555688ed051edd9fc514fdaa8186b41/MAGLALANG%20final%20task%202.%20Inheritance%20(1).pdf) |
-| **Midterm Lab Task 1** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/f587777a931d41be0790850c259d90c144094769/MAGLALANG%20final%20task%202.%20Inheritance%20(1).pdf) |
-| Midterm Lab Task 2: **Using Loops and Functions** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/c28f9df3eef3945da32c570170441ce1451f4ec1/Maglalang%20Sean%20Grei%20I.%20C204.pdf) |
-| Midterm Lab Task 3: **List Collection Types** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/18a1a64e2105da12d9bc9079d9b4d86b95ad81f3/Maglalang%20Sean%20Grei%20Midterm%20Lab.pdf) |
-| Midterm Lab Task 4: **Dictionaries** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/7e1f19c79ac80a280b5ef7d4c1dff0f15a5d5013/Maglalang%2C%20Sean%20Grei%20I.%20Midterm%20Lab%20Task%204%20(1).pdf) |
-| Midterm Lab Task 5: **Classes and Objects (Python)** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/8b681defa82091c3196beb03b33716f5908b4120/Maglalang%20Midterm%20lab%20task%205%20(1).pdf) |
+| Finals Task 3: **Polymorphism** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/c28f9df3eef3945da32c570170441ce1451f4ec1/Maglalang%20Sean%20Grei%20I.%20C204.pdf) |
+| Finals Task 4: **Python and Tkinter GUI program** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/18a1a64e2105da12d9bc9079d9b4d86b95ad81f3/Maglalang%20Sean%20Grei%20Midterm%20Lab.pdf) |
 
 ## 🎓 Finals Lab Task
 
 | Task | File |
 |------|------|
-| Finals Lab Task 1: **Encapsulation** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/2ad7a5ef82dd4f318648c7840036a0b93e30c134/MAGLALANG%20final%20lab%20task.pdf) |
+| Finals Lab Task 5: **CRUD CLI using Python and MySQL** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/7e1f19c79ac80a280b5ef7d4c1dff0f15a5d5013/Maglalang%2C%20Sean%20Grei%20I.%20Midterm%20Lab%20Task%204%20(1).pdf) |
+| Finals Lab Task 6: **Mysql and Tkinter HUI** | [Open PDF](https://github.com/itsnotgrey/7OOP-LABORATORY-PROJECTS/blob/8b681defa82091c3196beb03b33716f5908b4120/Maglalang%20Midterm%20lab%20task%205%20(1).pdf) |
+
 
 
 ---
